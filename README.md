@@ -1,2 +1,3 @@
 # CS211
-# for reference only, do not copy
+# School Project.
+# FOR REFERENCE ONLY! DO NOT COPY!
