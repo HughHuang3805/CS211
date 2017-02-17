@@ -1,3 +1,3 @@
-# CS211
+# CS211 C++
 # School Project.
 # FOR REFERENCE ONLY! DO NOT COPY!
